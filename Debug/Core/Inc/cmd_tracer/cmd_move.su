@@ -1,0 +1,2 @@
+../Core/Inc/cmd_tracer/cmd_move.c:11:6:execMV	56	dynamic
+../Core/Inc/cmd_tracer/cmd_move.c:40:6:transmitUART	8	static

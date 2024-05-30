@@ -1,0 +1,4 @@
+../Core/Inc/cmd_tracer/ioCommand.c:15:6:initIO	1
+../Core/Inc/cmd_tracer/ioCommand.c:82:6:execIO	6
+../Core/Inc/cmd_tracer/ioCommand.c:124:6:setPin	2
+../Core/Inc/cmd_tracer/ioCommand.c:131:6:readPin	2

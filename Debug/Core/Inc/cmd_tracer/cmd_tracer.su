@@ -1,0 +1,2 @@
+../Core/Inc/cmd_tracer/cmd_tracer.c:14:6:cmdInit	8	static
+../Core/Inc/cmd_tracer/cmd_tracer.c:27:6:recieveData	32	static
